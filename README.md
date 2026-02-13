@@ -57,8 +57,8 @@ Train Accuracy: 0.9771428571428571
            1       0.97      1.00      0.98       350
 
     accuracy                           0.98       525
-   macro avg       0.98      0.97      0.97       525
-weighted avg       0.98      0.98      0.98       525
+    macro avg       0.98      0.97      0.97       525
+    weighted avg       0.98      0.98      0.98       525
 
 ### Test set (Hard Ham + Spam)
 Test Accuracy: 0.9333333333333333
@@ -70,8 +70,8 @@ Test Accuracy: 0.9333333333333333
            1       0.91      1.00      0.95       150
 
     accuracy                           0.93       225
-   macro avg       0.95      0.90      0.92       225
-weighted avg       0.94      0.93      0.93       225
+    macro avg       0.95      0.90      0.92       225
+    weighted avg       0.94      0.93      0.93       225
 
 
 > The model is not that bad(still bad though)
