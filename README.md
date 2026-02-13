@@ -49,6 +49,8 @@ This repository contains a Python-based spam detection model trained on the [Spa
 Cross-validation f1: [0.93793103 0.95238095 0.93793103 0.95104895 0.95833333]
 Mean CV f1: 0.9475250611457507
 Train Accuracy: 0.9771428571428571
+              
+              
               precision    recall  f1-score   support
 
            0       1.00      0.93      0.96       175
@@ -60,6 +62,8 @@ weighted avg       0.98      0.98      0.98       525
 
 ### Test set (Hard Ham + Spam)
 Test Accuracy: 0.9333333333333333
+             
+              
               precision    recall  f1-score   support
 
            0       1.00      0.80      0.89        75
