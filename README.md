@@ -3,7 +3,7 @@ this model  is something thats quite easy to replicate and it can afford many im
 
 # Spam Detection Using Logistic Regression
 
-This repository contains a Python-based spam detection model trained on the [SpamAssassin public corpus](http://spamassassin.apache.org/old/publiccorpus/). The model uses a **custom tokenization pipeline** with **CountVectorizer** and **Logistic Regression**, including hyperparameter tuning to balance spam and ham classification.
+This repository contains a Python-based spam detection model trained on the [SpamAssassin public corpus](http://spamassassin.apache.org/old/publiccorpus/). The model uses a **custom tokenization pipeline** with **CountVectorizer** and **Logistic Regression**, including,albeit not much, hyperparameter tuning to balance spam and ham classification.
 
 ---
 
